@@ -1,4 +1,3 @@
-
 # 🚀 How to Run Aquilon Robotics Project
 
 ## 1️⃣ Install Requirements
